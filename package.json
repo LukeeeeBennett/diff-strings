@@ -1,0 +1,14 @@
+{
+  "name": "diff-strings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "diff-strings": "./diff-strings"
+  },
+  "author": "Luke Bennett <lukeeeebennettplus@gmail.com>",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "diff": "^4.0.1"
+  }
+}
