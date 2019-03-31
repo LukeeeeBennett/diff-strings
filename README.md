@@ -2,7 +2,7 @@
 
 ```
 > git clone https://gitlab.com/lbennett/diff-strings.git && cd diff-strings
-> yarn && yarn link`
+> yarn && yarn link
 ```
 
 yes, lazy with the bins!
