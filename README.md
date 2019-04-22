@@ -1,14 +1,16 @@
-### Install
+# @lbennett/diff-strings
+
+Diff 2 strings CLI tool
+
+## Installation
 
 ```
-> git clone https://gitlab.com/lbennett/diff-strings.git && cd diff-strings
-> yarn && yarn link
+npm install --global @lbennett/diff-strings
+# OR
+yarn global add @lbennett/diff-strings
 ```
 
-yes, lazy with the bins!
-
-
-### Use
+## Usage
 
 ```
 > diff-strings "long-string" "other long string"
